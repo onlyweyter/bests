@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: stilkuters/best:latest
+          tags: onlyweyter/bests:latest
